@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260602222250IRUS82</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260602222250984O1G</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Exploradores de ecosistemas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje Biología</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Mercedes Sánchez Escolano</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje destinada al alumnado de Biología y Geología de 1º ESO. El proyecto promueve la investigación, el trabajo colaborativo y el uso responsable de las tecnologías digitales mediante la elaboración de un producto final relacionado con el estudio de los ecosistemas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780431042379</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpx2o8j0-0d6n9wqqe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA. Proyecto &quot;Exploradores de los ecosistemas&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA. Proyecto &quot;Exploradores de los ecosistemas&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto &quot;Exploradores de los ecosistemas&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA. Proyecto &quot;Exploradores de los ecosistemas&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8j0-0d6n9wqqe</odePageId>
+      <odeBlockId>block-1778091238421-uzo7iaqcz</odeBlockId>
+      <blockName>Bienvenidos al proyecto “Exploradores de los ecosistemas&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8j0-0d6n9wqqe</odePageId>
+          <odeBlockId>block-1778091238421-uzo7iaqcz</odeBlockId>
+          <odeIdeviceId>idevice-1778091238413-cbv1dc49x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Guía didáctica:</p>
+<p>Este proyecto, “Exploradores de los ecosistemas”, está diseñado para el alumnado de 1º de ESO en la materia de Biología y Geología.</p>
+<p>Se plantea como una situación de aprendizaje competencial, en la que el alumnado progresa desde la investigación guiada hasta la elaboración de un producto final digital. El enfoque metodológico favorece el aprendizaje activo, cooperativo y el uso responsable de los recursos digitales.</p>
+<p>Durante su implementación, se ha detectado la necesidad de proporcionar apoyos adicionales a determinados grupos en la organización y síntesis de la información. Por ello, se incorporan organizadores gráficos, recursos visuales y herramientas digitales sencillas, garantizando la accesibilidad del aprendizaje.</p>
+<p>El diseño de esta situación de aprendizaje se basa en los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de representación, expresión y participación.</p>
+<p>El objetivo principal es que el alumnado comprenda qué es un ecosistema, identifique sus componentes y relaciones, y sea capaz de explicarlos utilizando un lenguaje científico básico adaptado a su nivel educativo.</p>
+<p>Las tareas se enlazan en la siguiente tabla con los criterios de evaluación, los agrupamientos, la temporalización y las herramientas que podrán utilizar:</p>
+<p><a href="https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0" title="">https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0</a></p>
+<table border="1" style="width: 100%; height: 577px;">
+<tbody>
+<tr style="height: 81px;">
+<td style="width: 19.8706%; height: 81px;"><strong>TAREA </strong></td>
+<td style="width: 35.6703%; height: 81px;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 12.7585%; height: 81px;"><strong> AGRUPAMIENTO</strong></td>
+<td style="width: 11.7375%; height: 81px;"><strong>TIEMPO APROXIMADO</strong></td>
+<td style="width: 19.963%; height: 81px;"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>
+</tr>
+<tr style="height: 145px;">
+<td style="width: 19.8706%; height: 145px;"><span style="font-size: 8pt;">Presentación del proyecto y motivación inicial</span></td>
+<td style="width: 35.6703%; height: 145px;">
+<p><span style="font-size: 8pt;">3.1. Analizar y plantear preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas, utilizando métodos científicos, intentando explicar fenómenos biológicos y geológicos sencillos, y realizar predicciones sobre estos.</span></p>
+</td>
+<td style="width: 12.7585%; height: 145px;"><span style="font-size: 8pt;">Grupo clase</span></td>
+<td style="width: 11.7375%; height: 145px;"><span style="font-size: 8pt;">1 sesión</span></td>
+<td style="width: 19.963%; height: 145px;"><span style="font-size: 8pt;">Canva + vídeo educativo</span></td>
+</tr>
+<tr style="height: 129px;">
+<td style="width: 19.8706%; height: 129px;"><span style="font-size: 8pt;">Activación de conocimientos previos (lluvia de ideas)</span></td>
+<td style="width: 35.6703%; height: 129px;"><span style="font-size: 8pt;">3.1. Analizar y plantear preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas, utilizando métodos científicos, intentando explicar fenómenos biológicos y geológicos sencillos, y realizar predicciones sobre estos.</span></td>
+<td style="width: 12.7585%; height: 129px;"><span style="font-size: 8pt;">Grupo clase</span></td>
+<td style="width: 11.7375%; height: 129px;"><span style="font-size: 8pt;">1 sesión</span></td>
+<td style="width: 19.963%; height: 129px;"><span style="font-size: 8pt;">Padlet</span></td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 19.8706%; height: 57px;"><span style="font-size: 8pt;">Organización de equipos y asignación de roles</span></td>
+<td style="width: 35.6703%; height: 57px;">
+<p><span style="font-size: 8pt;">3.4. Interpretar los resultados obtenidos en un proyecto de investigación utilizando cuando sea necesario herramientas matemáticas y tecnológicas.</span></p>
+</td>
+<td style="width: 12.7585%; height: 57px;"><span style="font-size: 8pt;">Grupos cooperativos</span></td>
+<td style="width: 11.7375%; height: 57px;"><span style="font-size: 8pt;">1 sesión</span></td>
+<td style="width: 19.963%; height: 57px;"><span style="font-size: 8pt;">Google Docs </span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.8706%; height: 33px;"><span style="font-size: 8pt;">Investigación guiada del ecosistema</span></td>
+<td style="width: 35.6703%; height: 33px;">
+<p><span style="font-size: 8pt;">5.1. Iniciarse en la relación basada en fundamentos científicos de la preservación de la biodiversidad, la conservación del medioambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida, reconociendo la riqueza de la biodiversidad en Andalucía.</span></p>
+</td>
+<td style="width: 12.7585%; height: 33px;"><span style="font-size: 8pt;">Grupos cooperativos</span></td>
+<td style="width: 11.7375%; height: 33px;"><span style="font-size: 8pt;">1 sesión</span></td>
+<td style="width: 19.963%; height: 33px;"><span style="font-size: 8pt;">Navegador web + ficha de investigación</span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.8706%; height: 33px;"><span style="font-size: 8pt;">Curación de contenidos digitales</span></td>
+<td style="width: 35.6703%; height: 33px;">
+<p><span style="font-size: 8pt;">4.1. Analizar y resolver problemas o dar explicación a procesos biológicos o geológicos sencillos, utilizando conocimientos, datos e información aportados por el docente, el razonamiento lógico, el pensamiento computacional o recursos digitales.</span></p>
+</td>
+<td style="width: 12.7585%; height: 33px;"><span style="font-size: 8pt;">Grupos cooperativos</span></td>
+<td style="width: 11.7375%; height: 33px;"><span style="font-size: 8pt;">1 sesión</span></td>
+<td style="width: 19.963%; height: 33px;"><span style="font-size: 8pt;">Wakelet</span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.8706%; height: 33px;"><span style="font-size: 8pt;">Síntesis y organización de la información</span></td>
+<td style="width: 35.6703%; height: 33px;">
+<p><span style="font-size: 8pt;">3.4. Interpretar los resultados obtenidos en un proyecto de investigación utilizando cuando sea necesario herramientas matemáticas y tecnológicas.</span></p>
+</td>
+<td style="width: 12.7585%; height: 33px;"><span style="font-size: 8pt;">Individual</span></td>
+<td style="width: 11.7375%; height: 33px;"><span style="font-size: 8pt;">1 sesión</span></td>
+<td style="width: 19.963%; height: 33px;"><span style="font-size: 8pt;">Canva / mapa conceptual</span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.8706%; height: 33px;"><span style="font-size: 8pt;">Elaboración de la presentación digital</span></td>
+<td style="width: 35.6703%; height: 33px;">
+<p><span style="font-size: 8pt;">2.3. Iniciarse en la valoración de la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella con independencia de su etnia, sexo o cultura, destacando y reconociendo el papel de las mujeres científicas, fomentando vocaciones científicas desde una perspectiva de género, y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución.</span></p>
+</td>
+<td style="width: 12.7585%; height: 33px;"><span style="font-size: 8pt;">Grupos cooperativos</span></td>
+<td style="width: 11.7375%; height: 33px;"><span style="font-size: 8pt;">1 sesión</span></td>
+<td style="width: 19.963%; height: 33px;"><span style="font-size: 8pt;">Canva / PowerPoint / Genially</span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.8706%; height: 33px;"><span style="font-size: 8pt;">Finalización del producto y preparación de la exposición</span></td>
+<td style="width: 35.6703%; height: 33px;"><span style="font-size: 8pt;">5.1. Iniciarse en la relación basada en fundamentos científicos de la preservación de la biodiversidad, la conservación del medioambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida, reconociendo la riqueza de la biodiversidad en Andalucía.</span></td>
+<td style="width: 12.7585%; height: 33px;"><span style="font-size: 8pt;">Grupos cooperativos</span></td>
+<td style="width: 11.7375%; height: 33px;"><span style="font-size: 8pt;">1 sesión</span></td>
+<td style="width: 19.963%; height: 33px;"><span style="font-size: 8pt;">Presentación digital + guion en Google Docs</span></td>
+</tr>
+<tr>
+<td style="width: 19.8706%;"><span style="font-size: 8pt;">Exposición oral, coevaluación y autoevaluación</span></td>
+<td style="width: 35.6703%;">
+<p><span style="font-size: 8pt;">5.2. Proponer y adoptar hábitos sostenibles básicos, analizando de una manera crítica las actividades propias y ajenas, a partir de los propios razonamientos, de los conocimientos adquiridos y de la información disponible.</span></p>
+</td>
+<td style="width: 12.7585%;"><span style="font-size: 8pt;">Grupo clase + individual</span></td>
+<td style="width: 11.7375%;"><span style="font-size: 8pt;">1 sesión</span></td>
+<td style="width: 19.963%;"><span style="font-size: 8pt;">Presentación digital + rúbrica / formulario Google</span></td>
+</tr>
+</tbody>
+</table>
+<p>Recursos didácticos:<br />- Vídeo introductorio sobre ecosistemas (definición y tipos):<br /><a href="https://www.youtube.com/watch?v=b4M57b-DEGs">https://www.youtube.com/watch?v=b4M57b-DEGs</a></p>
+<p>- Vídeo educativo: componentes de los ecosistemas (1º ESO):<br /><a href="https://www.youtube.com/watch?v=K2ywqbrd_F4">https://www.youtube.com/watch?v=K2ywqbrd_F4</a></p>
+<p>- Recurso educativo oficial del Ministerio de Educación:<br /><a href="https://www.educacionyfp.gob.es/">https://www.educacionyfp.gob.es/</a></p>
+<p>Metodología y atención a la diversidad (DUA): se aplican los principios del Diseño Universal para el Aprendizaje mediante:</p>
+<p>Múltiples formas de representación de la información (vídeos, textos, esquemas e imágenes).<br />Apoyos visuales y organizadores gráficos que facilitan la comprensión.<br />Trabajo cooperativo estructurado y aprendizaje entre iguales.<br />Andamiaje progresivo de las tareas para favorecer la autonomía del alumnado.<br />Uso de herramientas digitales accesibles y motivadoras.<br />Flexibilización en la elaboración del producto final según los distintos ritmos de aprendizaje.</p>
+<p>Observaciones didácticas:<br />En la práctica docente diaria, estos contenidos se refuerzan mediante preguntas guiadas, ejemplos contextualizados en el entorno del alumnado y acompañamiento en la organización de la información. Se promueve un aprendizaje significativo basado en la comprensión, aplicación y comunicación de los conceptos científicos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091238413-cbv1dc49x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Guía didáctica:</p>\n<p>Este proyecto, “Exploradores de los ecosistemas”, está diseñado para el alumnado de 1º de ESO en la materia de Biología y Geología.</p>\n<p>Se plantea como una situación de aprendizaje competencial, en la que el alumnado progresa desde la investigación guiada hasta la elaboración de un producto final digital. El enfoque metodológico favorece el aprendizaje activo, cooperativo y el uso responsable de los recursos digitales.</p>\n<p>Durante su implementación, se ha detectado la necesidad de proporcionar apoyos adicionales a determinados grupos en la organización y síntesis de la información. Por ello, se incorporan organizadores gráficos, recursos visuales y herramientas digitales sencillas, garantizando la accesibilidad del aprendizaje.</p>\n<p>El diseño de esta situación de aprendizaje se basa en los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de representación, expresión y participación.</p>\n<p>El objetivo principal es que el alumnado comprenda qué es un ecosistema, identifique sus componentes y relaciones, y sea capaz de explicarlos utilizando un lenguaje científico básico adaptado a su nivel educativo.</p>\n<p>Las tareas se enlazan en la siguiente tabla con los criterios de evaluación, los agrupamientos, la temporalización y las herramientas que podrán utilizar:</p>\n<p><a href=\"https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0\" title=\"\">https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0</a></p>\n<table border=\"1\" style=\"width: 100%; height: 577px;\">\n<tbody>\n<tr style=\"height: 81px;\">\n<td style=\"width: 19.8706%; height: 81px;\"><strong>TAREA </strong></td>\n<td style=\"width: 35.6703%; height: 81px;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 12.7585%; height: 81px;\"><strong> AGRUPAMIENTO</strong></td>\n<td style=\"width: 11.7375%; height: 81px;\"><strong>TIEMPO APROXIMADO</strong></td>\n<td style=\"width: 19.963%; height: 81px;\"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>\n</tr>\n<tr style=\"height: 145px;\">\n<td style=\"width: 19.8706%; height: 145px;\"><span style=\"font-size: 8pt;\">Presentación del proyecto y motivación inicial</span></td>\n<td style=\"width: 35.6703%; height: 145px;\">\n<p><span style=\"font-size: 8pt;\">3.1. Analizar y plantear preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas, utilizando métodos científicos, intentando explicar fenómenos biológicos y geológicos sencillos, y realizar predicciones sobre estos.</span></p>\n</td>\n<td style=\"width: 12.7585%; height: 145px;\"><span style=\"font-size: 8pt;\">Grupo clase</span></td>\n<td style=\"width: 11.7375%; height: 145px;\"><span style=\"font-size: 8pt;\">1 sesión</span></td>\n<td style=\"width: 19.963%; height: 145px;\"><span style=\"font-size: 8pt;\">Canva + vídeo educativo</span></td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"width: 19.8706%; height: 129px;\"><span style=\"font-size: 8pt;\">Activación de conocimientos previos (lluvia de ideas)</span></td>\n<td style=\"width: 35.6703%; height: 129px;\"><span style=\"font-size: 8pt;\">3.1. Analizar y plantear preguntas e hipótesis e intentar realizar predicciones sobre fenómenos biológicos o geológicos que puedan ser respondidas o contrastadas, utilizando métodos científicos, intentando explicar fenómenos biológicos y geológicos sencillos, y realizar predicciones sobre estos.</span></td>\n<td style=\"width: 12.7585%; height: 129px;\"><span style=\"font-size: 8pt;\">Grupo clase</span></td>\n<td style=\"width: 11.7375%; height: 129px;\"><span style=\"font-size: 8pt;\">1 sesión</span></td>\n<td style=\"width: 19.963%; height: 129px;\"><span style=\"font-size: 8pt;\">Padlet</span></td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 19.8706%; height: 57px;\"><span style=\"font-size: 8pt;\">Organización de equipos y asignación de roles</span></td>\n<td style=\"width: 35.6703%; height: 57px;\">\n<p><span style=\"font-size: 8pt;\">3.4. Interpretar los resultados obtenidos en un proyecto de investigación utilizando cuando sea necesario herramientas matemáticas y tecnológicas.</span></p>\n</td>\n<td style=\"width: 12.7585%; height: 57px;\"><span style=\"font-size: 8pt;\">Grupos cooperativos</span></td>\n<td style=\"width: 11.7375%; height: 57px;\"><span style=\"font-size: 8pt;\">1 sesión</span></td>\n<td style=\"width: 19.963%; height: 57px;\"><span style=\"font-size: 8pt;\">Google Docs </span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.8706%; height: 33px;\"><span style=\"font-size: 8pt;\">Investigación guiada del ecosistema</span></td>\n<td style=\"width: 35.6703%; height: 33px;\">\n<p><span style=\"font-size: 8pt;\">5.1. Iniciarse en la relación basada en fundamentos científicos de la preservación de la biodiversidad, la conservación del medioambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida, reconociendo la riqueza de la biodiversidad en Andalucía.</span></p>\n</td>\n<td style=\"width: 12.7585%; height: 33px;\"><span style=\"font-size: 8pt;\">Grupos cooperativos</span></td>\n<td style=\"width: 11.7375%; height: 33px;\"><span style=\"font-size: 8pt;\">1 sesión</span></td>\n<td style=\"width: 19.963%; height: 33px;\"><span style=\"font-size: 8pt;\">Navegador web + ficha de investigación</span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.8706%; height: 33px;\"><span style=\"font-size: 8pt;\">Curación de contenidos digitales</span></td>\n<td style=\"width: 35.6703%; height: 33px;\">\n<p><span style=\"font-size: 8pt;\">4.1. Analizar y resolver problemas o dar explicación a procesos biológicos o geológicos sencillos, utilizando conocimientos, datos e información aportados por el docente, el razonamiento lógico, el pensamiento computacional o recursos digitales.</span></p>\n</td>\n<td style=\"width: 12.7585%; height: 33px;\"><span style=\"font-size: 8pt;\">Grupos cooperativos</span></td>\n<td style=\"width: 11.7375%; height: 33px;\"><span style=\"font-size: 8pt;\">1 sesión</span></td>\n<td style=\"width: 19.963%; height: 33px;\"><span style=\"font-size: 8pt;\">Wakelet</span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.8706%; height: 33px;\"><span style=\"font-size: 8pt;\">Síntesis y organización de la información</span></td>\n<td style=\"width: 35.6703%; height: 33px;\">\n<p><span style=\"font-size: 8pt;\">3.4. Interpretar los resultados obtenidos en un proyecto de investigación utilizando cuando sea necesario herramientas matemáticas y tecnológicas.</span></p>\n</td>\n<td style=\"width: 12.7585%; height: 33px;\"><span style=\"font-size: 8pt;\">Individual</span></td>\n<td style=\"width: 11.7375%; height: 33px;\"><span style=\"font-size: 8pt;\">1 sesión</span></td>\n<td style=\"width: 19.963%; height: 33px;\"><span style=\"font-size: 8pt;\">Canva / mapa conceptual</span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.8706%; height: 33px;\"><span style=\"font-size: 8pt;\">Elaboración de la presentación digital</span></td>\n<td style=\"width: 35.6703%; height: 33px;\">\n<p><span style=\"font-size: 8pt;\">2.3. Iniciarse en la valoración de la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella con independencia de su etnia, sexo o cultura, destacando y reconociendo el papel de las mujeres científicas, fomentando vocaciones científicas desde una perspectiva de género, y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución.</span></p>\n</td>\n<td style=\"width: 12.7585%; height: 33px;\"><span style=\"font-size: 8pt;\">Grupos cooperativos</span></td>\n<td style=\"width: 11.7375%; height: 33px;\"><span style=\"font-size: 8pt;\">1 sesión</span></td>\n<td style=\"width: 19.963%; height: 33px;\"><span style=\"font-size: 8pt;\">Canva / PowerPoint / Genially</span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.8706%; height: 33px;\"><span style=\"font-size: 8pt;\">Finalización del producto y preparación de la exposición</span></td>\n<td style=\"width: 35.6703%; height: 33px;\"><span style=\"font-size: 8pt;\">5.1. Iniciarse en la relación basada en fundamentos científicos de la preservación de la biodiversidad, la conservación del medioambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida, reconociendo la riqueza de la biodiversidad en Andalucía.</span></td>\n<td style=\"width: 12.7585%; height: 33px;\"><span style=\"font-size: 8pt;\">Grupos cooperativos</span></td>\n<td style=\"width: 11.7375%; height: 33px;\"><span style=\"font-size: 8pt;\">1 sesión</span></td>\n<td style=\"width: 19.963%; height: 33px;\"><span style=\"font-size: 8pt;\">Presentación digital + guion en Google Docs</span></td>\n</tr>\n<tr>\n<td style=\"width: 19.8706%;\"><span style=\"font-size: 8pt;\">Exposición oral, coevaluación y autoevaluación</span></td>\n<td style=\"width: 35.6703%;\">\n<p><span style=\"font-size: 8pt;\">5.2. Proponer y adoptar hábitos sostenibles básicos, analizando de una manera crítica las actividades propias y ajenas, a partir de los propios razonamientos, de los conocimientos adquiridos y de la información disponible.</span></p>\n</td>\n<td style=\"width: 12.7585%;\"><span style=\"font-size: 8pt;\">Grupo clase + individual</span></td>\n<td style=\"width: 11.7375%;\"><span style=\"font-size: 8pt;\">1 sesión</span></td>\n<td style=\"width: 19.963%;\"><span style=\"font-size: 8pt;\">Presentación digital + rúbrica / formulario Google</span></td>\n</tr>\n</tbody>\n</table>\n<p>Recursos didácticos:<br />- Vídeo introductorio sobre ecosistemas (definición y tipos):<br /><a href=\"https://www.youtube.com/watch?v=b4M57b-DEGs\">https://www.youtube.com/watch?v=b4M57b-DEGs</a></p>\n<p>- Vídeo educativo: componentes de los ecosistemas (1º ESO):<br /><a href=\"https://www.youtube.com/watch?v=K2ywqbrd_F4\">https://www.youtube.com/watch?v=K2ywqbrd_F4</a></p>\n<p>- Recurso educativo oficial del Ministerio de Educación:<br /><a href=\"https://www.educacionyfp.gob.es/\">https://www.educacionyfp.gob.es/</a></p>\n<p>Metodología y atención a la diversidad (DUA): se aplican los principios del Diseño Universal para el Aprendizaje mediante:</p>\n<p>Múltiples formas de representación de la información (vídeos, textos, esquemas e imágenes).<br />Apoyos visuales y organizadores gráficos que facilitan la comprensión.<br />Trabajo cooperativo estructurado y aprendizaje entre iguales.<br />Andamiaje progresivo de las tareas para favorecer la autonomía del alumnado.<br />Uso de herramientas digitales accesibles y motivadoras.<br />Flexibilización en la elaboración del producto final según los distintos ritmos de aprendizaje.</p>\n<p>Observaciones didácticas:<br />En la práctica docente diaria, estos contenidos se refuerzan mediante preguntas guiadas, ejemplos contextualizados en el entorno del alumnado y acompañamiento en la organización de la información. Se promueve un aprendizaje significativo basado en la comprensión, aplicación y comunicación de los conceptos científicos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx2o8j3-3ztcf40lt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final del alumnado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8j3-3ztcf40lt</odePageId>
+      <odeBlockId>block-1778092008998-yzj5fmw7z</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8j3-3ztcf40lt</odePageId>
+          <odeBlockId>block-1778092008998-yzj5fmw7z</odeBlockId>
+          <odeIdeviceId>idevice-1778092008996-hawesm472</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final del proyecto consiste en la elaboración de una presentación digital sobre un ecosistema concreto, realizada en pequeño grupo.</p>
+<p>Este producto tiene como finalidad que el alumnado desarrolle la capacidad de seleccionar, organizar y comunicar información científica básica, favoreciendo el desarrollo de la competencia digital, la competencia en comunicación lingüística y el trabajo cooperativo.</p>
+<p>Para facilitar la elaboración del trabajo, se proporciona una estructura guía de apoyo que orienta la selección y organización de la información.</p>
+<p>La presentación deberá incluir, al menos:</p>
+<p>- Tipo de ecosistema seleccionado<br />- Factores bióticos y abióticos<br />- Relaciones entre los seres vivos<br />- Ejemplos visuales representativos<br />- Conclusión final del grupo<br />- La exposición del trabajo se realiza de forma oral ante el grupo-clase, fomentando la expresión científica básica, la comunicación y el uso responsable de herramientas digitales.</p>
+<p>Herramientas digitales recomendadas:</p>
+<p>Canva Educación: <a href="https://www.canva.com/es_es/educacion/">https://www.canva.com/es_es/educacion/</a></p>
+<p>Genially: <a href="https://genial.ly/es">https://genial.ly/es</a></p>
+<p>Ejemplos de presentaciones digitales (curación de contenidos):<br /></p>
+<p><a href="https://www.slideshare.net/search/slideshow?searchfrom=header&q=ecosistemas">https://www.slideshare.net/search/slideshow?searchfrom=header&q=ecosistemas</a></p>
+<p>Evaluación del producto<br />El producto final será evaluado mediante una rúbrica que tendrá en cuenta: comprensión de los contenidos científicos, organización y coherencia de la información, uso adecuado de recursos digitales, creatividad y presentación visual, expresión oral en la exposición y trabajo cooperativo.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092008996-hawesm472","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final del proyecto consiste en la elaboración de una presentación digital sobre un ecosistema concreto, realizada en pequeño grupo.</p>\n<p>Este producto tiene como finalidad que el alumnado desarrolle la capacidad de seleccionar, organizar y comunicar información científica básica, favoreciendo el desarrollo de la competencia digital, la competencia en comunicación lingüística y el trabajo cooperativo.</p>\n<p>Para facilitar la elaboración del trabajo, se proporciona una estructura guía de apoyo que orienta la selección y organización de la información.</p>\n<p>La presentación deberá incluir, al menos:</p>\n<p>- Tipo de ecosistema seleccionado<br />- Factores bióticos y abióticos<br />- Relaciones entre los seres vivos<br />- Ejemplos visuales representativos<br />- Conclusión final del grupo<br />- La exposición del trabajo se realiza de forma oral ante el grupo-clase, fomentando la expresión científica básica, la comunicación y el uso responsable de herramientas digitales.</p>\n<p>Herramientas digitales recomendadas:</p>\n<p>Canva Educación: <a href=\"https://www.canva.com/es_es/educacion/\">https://www.canva.com/es_es/educacion/</a></p>\n<p>Genially: <a href=\"https://genial.ly/es\">https://genial.ly/es</a></p>\n<p>Ejemplos de presentaciones digitales (curación de contenidos):<br /></p>\n<p><a href=\"https://www.slideshare.net/search/slideshow?searchfrom=header&q=ecosistemas\">https://www.slideshare.net/search/slideshow?searchfrom=header&q=ecosistemas</a></p>\n<p>Evaluación del producto<br />El producto final será evaluado mediante una rúbrica que tendrá en cuenta: comprensión de los contenidos científicos, organización y coherencia de la información, uso adecuado de recursos digitales, creatividad y presentación visual, expresión oral en la exposición y trabajo cooperativo.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx2o8j4-w5cx31dlo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos – alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8j4-w5cx31dlo</odePageId>
+      <odeBlockId>block-1778092174550-a2qbd5rto</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8j4-w5cx31dlo</odePageId>
+          <odeBlockId>block-1778092174550-a2qbd5rto</odeBlockId>
+          <odeIdeviceId>idevice-1778092174546-njtl58rlm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado realiza un proceso de búsqueda, selección y organización de información sobre los ecosistemas utilizando recursos digitales, desarrollando progresivamente su competencia digital y su capacidad de análisis crítico.</p>
+<p>El objetivo de esta actividad es que el alumnado aprenda a identificar fuentes fiables, seleccionar información relevante y evitar la copia directa de contenidos sin procesamiento.</p>
+<p>Para ello, se utilizan herramientas digitales colaborativas que permiten organizar la información de forma visual y estructurada.</p>
+<p>Herramientas digitales:<br />- Padlet (panel colaborativo del alumnado):<br /><a href="https://padlet.com/">https://padlet.com/</a></p>
+<p>- Wakelet (organización de contenidos):<br /><a href="https://wakelet.com/">https://wakelet.com/</a></p>
+<p>Fuentes de información recomendadas<br />- National Geographic Kids:<br /><a href="https://kids.nationalgeographic.com/nature">https://kids.nationalgeographic.com/nature</a></p>
+<p>- Wikipedia (como fuente de apoyo y contraste de información):<br /><a href="https://es.wikipedia.org/wiki/Ecosistema">https://es.wikipedia.org/wiki/Ecosistema</a></p>
+<p>Organización del trabajo:<br />El alumnado utiliza un panel colaborativo en Padlet para recopilar, clasificar y compartir información relevante sobre el ecosistema seleccionado, fomentando el aprendizaje entre iguales y la construcción conjunta del conocimiento. Panel colaborativo del alumnado en Padlet:</p>
+<p><a href="https://padlet.com/msanesc987/ecosistemas-1-eso-recursos-del-proyecto-alumnado-yny2cgtpw6yu60g3">https://padlet.com/msanesc987/ecosistemas-1-eso-recursos-del-proyecto-alumnado-yny2cgtpw6yu60g3</a></p>
+<p>El alumnado utiliza un panel colaborativo en Padlet para recopilar, clasificar y compartir información relevante sobre el ecosistema seleccionado, fomentando el aprendizaje entre iguales y la construcción conjunta del conocimiento. Este panel se utiliza como espacio colaborativo donde el alumnado organiza y comparte la información seleccionada durante la fase de investigación.</p>
+<p>Criterio didáctico:<br />Se refuerza la importancia de la selección crítica de información, diferenciando entre fuentes fiables y contenidos no contrastados, fomentando el uso responsable de la información en entornos digitales.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092174546-njtl58rlm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado realiza un proceso de búsqueda, selección y organización de información sobre los ecosistemas utilizando recursos digitales, desarrollando progresivamente su competencia digital y su capacidad de análisis crítico.</p>\n<p>El objetivo de esta actividad es que el alumnado aprenda a identificar fuentes fiables, seleccionar información relevante y evitar la copia directa de contenidos sin procesamiento.</p>\n<p>Para ello, se utilizan herramientas digitales colaborativas que permiten organizar la información de forma visual y estructurada.</p>\n<p>Herramientas digitales:<br />- Padlet (panel colaborativo del alumnado):<br /><a href=\"https://padlet.com/\">https://padlet.com/</a></p>\n<p>- Wakelet (organización de contenidos):<br /><a href=\"https://wakelet.com/\">https://wakelet.com/</a></p>\n<p>Fuentes de información recomendadas<br />- National Geographic Kids:<br /><a href=\"https://kids.nationalgeographic.com/nature\">https://kids.nationalgeographic.com/nature</a></p>\n<p>- Wikipedia (como fuente de apoyo y contraste de información):<br /><a href=\"https://es.wikipedia.org/wiki/Ecosistema\">https://es.wikipedia.org/wiki/Ecosistema</a></p>\n<p>Organización del trabajo:<br />El alumnado utiliza un panel colaborativo en Padlet para recopilar, clasificar y compartir información relevante sobre el ecosistema seleccionado, fomentando el aprendizaje entre iguales y la construcción conjunta del conocimiento. Panel colaborativo del alumnado en Padlet:</p>\n<p><a href=\"https://padlet.com/msanesc987/ecosistemas-1-eso-recursos-del-proyecto-alumnado-yny2cgtpw6yu60g3\">https://padlet.com/msanesc987/ecosistemas-1-eso-recursos-del-proyecto-alumnado-yny2cgtpw6yu60g3</a></p>\n<p>El alumnado utiliza un panel colaborativo en Padlet para recopilar, clasificar y compartir información relevante sobre el ecosistema seleccionado, fomentando el aprendizaje entre iguales y la construcción conjunta del conocimiento. Este panel se utiliza como espacio colaborativo donde el alumnado organiza y comparte la información seleccionada durante la fase de investigación.</p>\n<p>Criterio didáctico:<br />Se refuerza la importancia de la selección crítica de información, diferenciando entre fuentes fiables y contenidos no contrastados, fomentando el uso responsable de la información en entornos digitales.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx2o8j5-libxfk6p1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos – docente</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos – docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8j5-libxfk6p1</odePageId>
+      <odeBlockId>block-1778092333500-m0o36lpap</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8j5-libxfk6p1</odePageId>
+          <odeBlockId>block-1778092333500-m0o36lpap</odeBlockId>
+          <odeIdeviceId>idevice-1778092333497-q7zl1qhp5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El docente utiliza diversas herramientas digitales para la planificación, organización, seguimiento y evaluación del proyecto, con el objetivo de estructurar el proceso de enseñanza-aprendizaje y facilitar la gestión del trabajo del alumnado.</p>
+<p>Estas herramientas permiten diseñar, almacenar y gestionar los recursos didácticos, así como realizar un seguimiento individualizado del progreso del alumnado durante el desarrollo de la situación de aprendizaje.</p>
+<p>Selección y gestión de recursos educativos digitales (herramientas digitales utilizadas):<br />- Google Drive (almacenamiento y organización de recursos):<br /><a href="https://drive.google.com/">https://drive.google.com/</a></p>
+<p>- Google Docs (elaboración de materiales y rúbricas):<br /><a href="https://docs.google.com/">https://docs.google.com/</a></p>
+<p>- Google Classroom (gestión del aula virtual y entrega de tareas):<br /><a href="https://classroom.google.com/">https://classroom.google.com/</a></p>
+<p>- Google Calendar (planificación temporal del proyecto):<br /><a href="https://calendar.google.com/">https://calendar.google.com/</a></p>
+<p>- Moodle Centros Andalucía (entorno virtual de aprendizaje):<br /><a href="https://educacionadistancia.juntadeandalucia.es/">https://educacionadistancia.juntadeandalucia.es/</a></p>
+<p>- Séneca (seguimiento académico y evaluación del alumnado):<br /><a href="https://seneca.juntadeandalucia.es/">https://seneca.juntadeandalucia.es/</a></p>
+<p>Función didáctica<br />Estas herramientas permiten al docente: organizar los materiales del proyecto, coordinar las distintas fases de la situación de aprendizaje, realizar seguimiento del progreso del alumnado, registrar la evaluación de forma continua y facilitar la comunicación con el alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092333497-q7zl1qhp5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El docente utiliza diversas herramientas digitales para la planificación, organización, seguimiento y evaluación del proyecto, con el objetivo de estructurar el proceso de enseñanza-aprendizaje y facilitar la gestión del trabajo del alumnado.</p>\n<p>Estas herramientas permiten diseñar, almacenar y gestionar los recursos didácticos, así como realizar un seguimiento individualizado del progreso del alumnado durante el desarrollo de la situación de aprendizaje.</p>\n<p>Selección y gestión de recursos educativos digitales (herramientas digitales utilizadas):<br />- Google Drive (almacenamiento y organización de recursos):<br /><a href=\"https://drive.google.com/\">https://drive.google.com/</a></p>\n<p>- Google Docs (elaboración de materiales y rúbricas):<br /><a href=\"https://docs.google.com/\">https://docs.google.com/</a></p>\n<p>- Google Classroom (gestión del aula virtual y entrega de tareas):<br /><a href=\"https://classroom.google.com/\">https://classroom.google.com/</a></p>\n<p>- Google Calendar (planificación temporal del proyecto):<br /><a href=\"https://calendar.google.com/\">https://calendar.google.com/</a></p>\n<p>- Moodle Centros Andalucía (entorno virtual de aprendizaje):<br /><a href=\"https://educacionadistancia.juntadeandalucia.es/\">https://educacionadistancia.juntadeandalucia.es/</a></p>\n<p>- Séneca (seguimiento académico y evaluación del alumnado):<br /><a href=\"https://seneca.juntadeandalucia.es/\">https://seneca.juntadeandalucia.es/</a></p>\n<p>Función didáctica<br />Estas herramientas permiten al docente: organizar los materiales del proyecto, coordinar las distintas fases de la situación de aprendizaje, realizar seguimiento del progreso del alumnado, registrar la evaluación de forma continua y facilitar la comunicación con el alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx2o8j6-uedzxdpf9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8j6-uedzxdpf9</odePageId>
+      <odeBlockId>block-1778092828831-y2yjeflhe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8j6-uedzxdpf9</odePageId>
+          <odeBlockId>block-1778092828831-y2yjeflhe</odeBlockId>
+          <odeIdeviceId>idevice-1778092828828-jyr3z0r91</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La línea temporal organiza el desarrollo del proyecto “Exploradores de los ecosistemas” en 9 sesiones, estructuradas de forma progresiva para facilitar el aprendizaje competencial del alumnado.</p>
+<p>Fases del proyecto:<br />- Introducción al proyecto y presentación de la situación de aprendizaje<br />- Formación de grupos de trabajo cooperativo<br />- Búsqueda de información en fuentes digitales fiables<br />- Selección, análisis y organización de la información<br />- Elaboración del producto digital (presentación)<br />- Revisión y mejora del producto final<br />- Preparación de la exposición oral<br />- Exposición final del proyecto<br />- Evaluación del proceso y del producto final</p>
+<p>Representación visual de la línea temporal:<br />Para facilitar la comprensión del proceso, se incluye una representación visual de la planificación del proyecto:</p>
+<p><a href="https://canva.link/nyzw9ykbyw28ssx">https://canva.link/nyzw9ykbyw28ssx</a></p>
+<p>Enfoque didáctico:<br />La secuenciación permite un aprendizaje progresivo, pasando de la exploración guiada a la creación de un producto final, fomentando la autonomía, el trabajo cooperativo y la competencia digital del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092828828-jyr3z0r91","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La línea temporal organiza el desarrollo del proyecto “Exploradores de los ecosistemas” en 9 sesiones, estructuradas de forma progresiva para facilitar el aprendizaje competencial del alumnado.</p>\n<p>Fases del proyecto:<br />- Introducción al proyecto y presentación de la situación de aprendizaje<br />- Formación de grupos de trabajo cooperativo<br />- Búsqueda de información en fuentes digitales fiables<br />- Selección, análisis y organización de la información<br />- Elaboración del producto digital (presentación)<br />- Revisión y mejora del producto final<br />- Preparación de la exposición oral<br />- Exposición final del proyecto<br />- Evaluación del proceso y del producto final</p>\n<p>Representación visual de la línea temporal:<br />Para facilitar la comprensión del proceso, se incluye una representación visual de la planificación del proyecto:</p>\n<p><a href=\"https://canva.link/nyzw9ykbyw28ssx\">https://canva.link/nyzw9ykbyw28ssx</a></p>\n<p>Enfoque didáctico:<br />La secuenciación permite un aprendizaje progresivo, pasando de la exploración guiada a la creación de un producto final, fomentando la autonomía, el trabajo cooperativo y la competencia digital del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx2o8j7-6fs55yr7o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8j7-6fs55yr7o</odePageId>
+      <odeBlockId>block-1778093008258-i6hdvn0ym</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8j7-6fs55yr7o</odePageId>
+          <odeBlockId>block-1778093008258-i6hdvn0ym</odeBlockId>
+          <odeIdeviceId>idevice-1778093008254-dff0o1zu3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los criterios de evaluación se aplican de forma global e integrada a lo largo de todo el proyecto, valorando el proceso de aprendizaje del alumnado desde la fase inicial de investigación hasta la exposición final del producto.</p>
+<p>La evaluación tiene un enfoque competencial, teniendo en cuenta no solo los conocimientos adquiridos, sino también las habilidades de comunicación, cooperación y uso de herramientas digitales.</p>
+<p>A continuación, presento los criterios asociados a las tareas en cada una de las sesiones, con sus correspondientes agrupamientos y herramientas:</p>
+<p><a href="https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0#heading=h.v3kpl8zcktok">https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>
+<p>Criterios de evaluación asociados al proyecto: durante el desarrollo de la situación de aprendizaje se evalúa si el alumnado es capaz de:</p>
+<p>- Comprender los componentes de los ecosistemas y sus interacciones básicas<br />- Seleccionar y utilizar información científica básica de forma adecuada<br />- Trabajar de manera cooperativa en equipos, respetando roles y tareas<br />- Utilizar herramientas digitales para buscar, organizar y comunicar información<br />- Elaborar un producto digital coherente y estructurado<br />- Expresar oralmente sus conclusiones de forma clara y comprensible</p>
+<p><br />Relación con las tareas del proyecto:<br />Los criterios anteriores se aplican de forma progresiva en las distintas fases del proyecto:</p>
+<p>- Fase de investigación → búsqueda y selección de información<br />- Fase de elaboración → creación del producto digital<br />- Fase final → exposición oral y reflexión del aprendizaje</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778093008254-dff0o1zu3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los criterios de evaluación se aplican de forma global e integrada a lo largo de todo el proyecto, valorando el proceso de aprendizaje del alumnado desde la fase inicial de investigación hasta la exposición final del producto.</p>\n<p>La evaluación tiene un enfoque competencial, teniendo en cuenta no solo los conocimientos adquiridos, sino también las habilidades de comunicación, cooperación y uso de herramientas digitales.</p>\n<p>A continuación, presento los criterios asociados a las tareas en cada una de las sesiones, con sus correspondientes agrupamientos y herramientas:</p>\n<p><a href=\"https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0#heading=h.v3kpl8zcktok\">https://docs.google.com/document/d/1dyPDWWCKOmK_76pBnjWaDn2C6QgmTvXJsxIqg9h-Za4/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>\n<p>Criterios de evaluación asociados al proyecto: durante el desarrollo de la situación de aprendizaje se evalúa si el alumnado es capaz de:</p>\n<p>- Comprender los componentes de los ecosistemas y sus interacciones básicas<br />- Seleccionar y utilizar información científica básica de forma adecuada<br />- Trabajar de manera cooperativa en equipos, respetando roles y tareas<br />- Utilizar herramientas digitales para buscar, organizar y comunicar información<br />- Elaborar un producto digital coherente y estructurado<br />- Expresar oralmente sus conclusiones de forma clara y comprensible</p>\n<p><br />Relación con las tareas del proyecto:<br />Los criterios anteriores se aplican de forma progresiva en las distintas fases del proyecto:</p>\n<p>- Fase de investigación → búsqueda y selección de información<br />- Fase de elaboración → creación del producto digital<br />- Fase final → exposición oral y reflexión del aprendizaje</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx2o8j8-cdy1944tg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8j8-cdy1944tg</odePageId>
+      <odeBlockId>block-1778093503236-sl6m4486x</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8j8-cdy1944tg</odePageId>
+          <odeBlockId>block-1778093503236-sl6m4486x</odeBlockId>
+          <odeIdeviceId>idevice-1778093503232-64pujopmk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación del proyecto se realiza mediante instrumentos variados que permiten valorar tanto el proceso de aprendizaje como el producto final del alumnado, garantizando un enfoque competencial e integral.</p>
+<p>1. Rúbrica de evaluación del producto digital:<br />Se utiliza una rúbrica analítica para valorar la presentación digital elaborada por el alumnado.</p>
+<p>Este instrumento permite evaluar de forma estructurada los siguientes aspectos:</p>
+<p>- Comprensión de los contenidos científicos sobre ecosistemas<br />- Selección y organización de la información relevante<br />- Estructura y coherencia del producto digital<br />- Uso adecuado de herramientas digitales (Canva, Genially)<br />- Creatividad y presentación visual del trabajo<br />La rúbrica se aplica al finalizar la elaboración del producto, antes de la exposición oral.</p>
+<p>2. Lista de cotejo – exposición oral:<br />Se utiliza una lista de cotejo durante la exposición oral del alumnado para registrar de forma sistemática la adquisición de competencias comunicativas.</p>
+<p>Se valoran los siguientes aspectos:</p>
+<p>- Claridad en la exposición de ideas<br />- Uso de lenguaje científico básico adecuado al nivel<br />- Participación equilibrada de todos los miembros del grupo<br />- Apoyo de la explicación mediante recursos digitales<br />- Capacidad de comunicación y expresión oral<br />Este instrumento permite una evaluación ágil durante la presentación del trabajo.</p>
+<p>Estos instrumentos permiten una evaluación continua y formativa, ajustada a la realidad del aula, facilitando la detección de dificultades tanto en la comprensión de contenidos como en la expresión y comunicación del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778093503232-64pujopmk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación del proyecto se realiza mediante instrumentos variados que permiten valorar tanto el proceso de aprendizaje como el producto final del alumnado, garantizando un enfoque competencial e integral.</p>\n<p>1. Rúbrica de evaluación del producto digital:<br />Se utiliza una rúbrica analítica para valorar la presentación digital elaborada por el alumnado.</p>\n<p>Este instrumento permite evaluar de forma estructurada los siguientes aspectos:</p>\n<p>- Comprensión de los contenidos científicos sobre ecosistemas<br />- Selección y organización de la información relevante<br />- Estructura y coherencia del producto digital<br />- Uso adecuado de herramientas digitales (Canva, Genially)<br />- Creatividad y presentación visual del trabajo<br />La rúbrica se aplica al finalizar la elaboración del producto, antes de la exposición oral.</p>\n<p>2. Lista de cotejo – exposición oral:<br />Se utiliza una lista de cotejo durante la exposición oral del alumnado para registrar de forma sistemática la adquisición de competencias comunicativas.</p>\n<p>Se valoran los siguientes aspectos:</p>\n<p>- Claridad en la exposición de ideas<br />- Uso de lenguaje científico básico adecuado al nivel<br />- Participación equilibrada de todos los miembros del grupo<br />- Apoyo de la explicación mediante recursos digitales<br />- Capacidad de comunicación y expresión oral<br />Este instrumento permite una evaluación ágil durante la presentación del trabajo.</p>\n<p>Estos instrumentos permiten una evaluación continua y formativa, ajustada a la realidad del aula, facilitando la detección de dificultades tanto en la comprensión de contenidos como en la expresión y comunicación del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx2o8j9-c5jcv45au</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad (DUA)</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad (DUA)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad (DUA)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8j9-c5jcv45au</odePageId>
+      <odeBlockId>block-1778096157645-uznksr1fs</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8j9-c5jcv45au</odePageId>
+          <odeBlockId>block-1778096157645-uznksr1fs</odeBlockId>
+          <odeIdeviceId>idevice-1778096157639-a0mihueqt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto se aplica un enfoque basado en el Diseño Universal para el Aprendizaje (DUA) con el objetivo de garantizar la participación de todo el alumnado, eliminando barreras de acceso, participación y expresión del aprendizaje.</p>
+<p>Se parte de la consideración de que el grupo presenta diferentes ritmos de aprendizaje, niveles de competencia digital y estilos de aprendizaje, por lo que se ofrecen múltiples formas de representación, expresión y compromiso.</p>
+<p>Medidas para la accesibilidad y comprensión (representación):<br />- Uso de recursos visuales como imágenes, esquemas y vídeos explicativos<br />- Explicaciones orales complementarias a los materiales escritos<br />- Lenguaje adaptado y estructuración clara de la información<br />- Apoyo en ejemplos contextualizados del entorno del alumnado</p>
+<p>Medidas para la participación (compromiso):<br />- Trabajo cooperativo en grupos heterogéneos<br />- Distribución de roles dentro del equipo (coordinación, búsqueda, diseño…)<br />- Uso de herramientas digitales motivadoras y accesibles<br />- Progresión guiada desde tareas simples a tareas más complejas</p>
+<p>Medidas para la expresión del aprendizaje:<br />- Flexibilidad en el formato del producto final (presentación digital)<br />- Uso de herramientas como Canva o Genially para facilitar la creación<br />- Apoyo en plantillas estructuradas para la organización de la información<br />- Posibilidad de apoyo docente durante el proceso de elaboración</p>
+<p>Enfoque inclusivo:<br />Estas medidas permiten que el alumnado pueda participar desde sus fortalezas, favoreciendo un aprendizaje significativo y reduciendo barreras de acceso al currículo, en coherencia con los principios de inclusión educativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096157639-a0mihueqt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto se aplica un enfoque basado en el Diseño Universal para el Aprendizaje (DUA) con el objetivo de garantizar la participación de todo el alumnado, eliminando barreras de acceso, participación y expresión del aprendizaje.</p>\n<p>Se parte de la consideración de que el grupo presenta diferentes ritmos de aprendizaje, niveles de competencia digital y estilos de aprendizaje, por lo que se ofrecen múltiples formas de representación, expresión y compromiso.</p>\n<p>Medidas para la accesibilidad y comprensión (representación):<br />- Uso de recursos visuales como imágenes, esquemas y vídeos explicativos<br />- Explicaciones orales complementarias a los materiales escritos<br />- Lenguaje adaptado y estructuración clara de la información<br />- Apoyo en ejemplos contextualizados del entorno del alumnado</p>\n<p>Medidas para la participación (compromiso):<br />- Trabajo cooperativo en grupos heterogéneos<br />- Distribución de roles dentro del equipo (coordinación, búsqueda, diseño…)<br />- Uso de herramientas digitales motivadoras y accesibles<br />- Progresión guiada desde tareas simples a tareas más complejas</p>\n<p>Medidas para la expresión del aprendizaje:<br />- Flexibilidad en el formato del producto final (presentación digital)<br />- Uso de herramientas como Canva o Genially para facilitar la creación<br />- Apoyo en plantillas estructuradas para la organización de la información<br />- Posibilidad de apoyo docente durante el proceso de elaboración</p>\n<p>Enfoque inclusivo:<br />Estas medidas permiten que el alumnado pueda participar desde sus fortalezas, favoreciendo un aprendizaje significativo y reduciendo barreras de acceso al currículo, en coherencia con los principios de inclusión educativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx2o8jb-4jvanlxx1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Cierre del proyecto</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cierre del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cierre del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8jb-4jvanlxx1</odePageId>
+      <odeBlockId>block-1778096203096-4z81j4g2v</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8jb-4jvanlxx1</odePageId>
+          <odeBlockId>block-1778096203096-4z81j4g2v</odeBlockId>
+          <odeIdeviceId>idevice-1778096203091-iunuanv7l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Students_working_in_group.jpg" title="Alumnado trabajando en grupo en un proyecto científico" alt="" />Este proyecto permite al alumnado aplicar de forma práctica los conocimientos adquiridos sobre los ecosistemas, integrando contenidos científicos, trabajo cooperativo y competencias digitales.</p>
+<p>A lo largo del proceso se ha observado que el aprendizaje basado en proyectos favorece la motivación del alumnado y su implicación en la tarea, especialmente cuando se combinan actividades prácticas con el uso de herramientas digitales.</p>
+<p>Se han detectado diferentes ritmos de aprendizaje, por lo que ha sido necesario reforzar la organización de la información mediante apoyos visuales y estructuración guiada de las tareas.</p>
+<p>La fase final de exposición permite valorar no solo los conocimientos adquiridos, sino también la capacidad de comunicación, el trabajo en equipo y el uso adecuado de recursos digitales.</p>
+<p>Este tipo de propuestas favorece un aprendizaje competencial, significativo y contextualizado en situaciones reales.</p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096203091-iunuanv7l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/3/3f/Students_working_in_group.jpg\" title=\"Alumnado trabajando en grupo en un proyecto científico\" alt=\"\" />Este proyecto permite al alumnado aplicar de forma práctica los conocimientos adquiridos sobre los ecosistemas, integrando contenidos científicos, trabajo cooperativo y competencias digitales.</p>\n<p>A lo largo del proceso se ha observado que el aprendizaje basado en proyectos favorece la motivación del alumnado y su implicación en la tarea, especialmente cuando se combinan actividades prácticas con el uso de herramientas digitales.</p>\n<p>Se han detectado diferentes ritmos de aprendizaje, por lo que ha sido necesario reforzar la organización de la información mediante apoyos visuales y estructuración guiada de las tareas.</p>\n<p>La fase final de exposición permite valorar no solo los conocimientos adquiridos, sino también la capacidad de comunicación, el trabajo en equipo y el uso adecuado de recursos digitales.</p>\n<p>Este tipo de propuestas favorece un aprendizaje competencial, significativo y contextualizado en situaciones reales.</p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpx2o8jb-snxilr76y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpx2o8jb-snxilr76y</odePageId>
+      <odeBlockId>block-1778096277232-7eea6gl10</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpx2o8jb-snxilr76y</odePageId>
+          <odeBlockId>block-1778096277232-7eea6gl10</odeBlockId>
+          <odeIdeviceId>idevice-1778096277228-3ejmdl9yx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título del proyecto: "Exploradores de los ecosistemas"</p>
+<p>Autoría: Mª Mercedes Sánchez Escolano<br />Nivel educativo: 1º ESO<br />Centro educativo: IES Maestro Padilla<br />Localidad: Almería </p>
+<p>Descripción del recurso: <br />Este recurso educativo digital ha sido elaborado con la herramienta eXeLearning como Situación de Aprendizaje para la materia de Biología y Geología en 1º de ESO. El proyecto se basa en una metodología activa y competencial, en la que el alumnado investiga, organiza información científica sobre los ecosistemas y elabora un producto digital final en equipo, favoreciendo el aprendizaje cooperativo y el uso responsable de herramientas digitales.</p>
+<p>Herramientas digitales utilizadas:<br />- eXeLearning (creación del recurso educativo)<br />- Canva Educación (diseño de presentaciones del alumnado)<br /><a href="https://www.canva.com/es_es/educacion/">https://www.canva.com/es_es/educacion/</a></p>
+<p>- Padlet (curación y organización colaborativa de contenidos)<br /><a href="https://padlet.com/">https://padlet.com/</a></p>
+<p>Licencia de uso:<br />Este recurso se distribuye bajo licencia: </p>
+<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="">https://creativecommons.org/licenses/by-nc-sa/4.0/</a></p>
+<p>Condiciones de uso:<br />Este material puede ser:</p>
+<p>- utilizado en contextos educativos<br />- modificado para su adaptación al aula<br />- compartido siempre con reconocimiento de la autoría<br />- no está permitido su uso comercial.</p>
+<p>Archivo editable:</p>
+<p>Descargar archivo editable del proyecto (.elpx): <a href="https://raw.githubusercontent.com/ProfeBio/exelearning_final_biologia/main/Proyecto_B2_biologia.elpx" title="">https://raw.githubusercontent.com/ProfeBio/exelearning_final_biologia/main/Proyecto_B2_biologia.elpx</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096277228-3ejmdl9yx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título del proyecto: \"Exploradores de los ecosistemas\"</p>\n<p>Autoría: Mª Mercedes Sánchez Escolano<br />Nivel educativo: 1º ESO<br />Centro educativo: IES Maestro Padilla<br />Localidad: Almería </p>\n<p>Descripción del recurso: <br />Este recurso educativo digital ha sido elaborado con la herramienta eXeLearning como Situación de Aprendizaje para la materia de Biología y Geología en 1º de ESO. El proyecto se basa en una metodología activa y competencial, en la que el alumnado investiga, organiza información científica sobre los ecosistemas y elabora un producto digital final en equipo, favoreciendo el aprendizaje cooperativo y el uso responsable de herramientas digitales.</p>\n<p>Herramientas digitales utilizadas:<br />- eXeLearning (creación del recurso educativo)<br />- Canva Educación (diseño de presentaciones del alumnado)<br /><a href=\"https://www.canva.com/es_es/educacion/\">https://www.canva.com/es_es/educacion/</a></p>\n<p>- Padlet (curación y organización colaborativa de contenidos)<br /><a href=\"https://padlet.com/\">https://padlet.com/</a></p>\n<p>Licencia de uso:<br />Este recurso se distribuye bajo licencia: </p>\n<p><a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" title=\"\">https://creativecommons.org/licenses/by-nc-sa/4.0/</a></p>\n<p>Condiciones de uso:<br />Este material puede ser:</p>\n<p>- utilizado en contextos educativos<br />- modificado para su adaptación al aula<br />- compartido siempre con reconocimiento de la autoría<br />- no está permitido su uso comercial.</p>\n<p>Archivo editable:</p>\n<p>Descargar archivo editable del proyecto (.elpx): <a href=\"https://raw.githubusercontent.com/ProfeBio/exelearning_final_biologia/main/Proyecto_B2_biologia.elpx\" title=\"\">https://raw.githubusercontent.com/ProfeBio/exelearning_final_biologia/main/Proyecto_B2_biologia.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
